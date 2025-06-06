@@ -3,14 +3,13 @@
 A Geeky Full Stack Developer.
 
 - 💬 Ask me about **Full stack web and distributed systems**.
-- 🌐 How to reach me [My LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
-- 📄 Know about my experiences [My Resume](https://your-resume-link/).
+- 🌐 How to reach me [My LinkedIn](https://www.linkedin.com/in/aayush-bhusari/).
 - ⚡ Fun fact: **Why did the neural network go to school? To improve its learning rate!**
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-bhusari/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bhusariaayush)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
